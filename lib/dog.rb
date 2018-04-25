@@ -23,6 +23,6 @@ class Dog
  
 end
 
-my_dog = Dog.new 
+my_dog = Dog.new("Kip", )
 my_dog.name = "Kip"
 my_dog.name
