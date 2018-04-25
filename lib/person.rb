@@ -22,3 +22,5 @@ class Person
   end
  
 end
+
+my_dog = 
