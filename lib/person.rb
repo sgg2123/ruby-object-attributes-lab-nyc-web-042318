@@ -20,6 +20,6 @@ end
 
 my_person = Person.new
 my_person.name = "Bob"
-my_dog.job = "Builder"
+my_person.job = "Builder"
 puts my_person.name
 puts my_person.job
