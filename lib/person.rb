@@ -23,4 +23,3 @@ class Person
  
 end
 
-my_dog = 
